@@ -1,5 +1,5 @@
 import React from 'react'
-import ImgProblema from '../../assets/Problema a resolver.png'
+import ImgProblema from '../../Assets/Problema a resolver.png'
 import { Header } from '../../Components/Header/Header'
 import { Footer } from '../../Components/Footer/Footer'
 
