@@ -1,7 +1,7 @@
 import React from 'react';
 import ImgJose from '../../Assets/jose.jpeg';
 import ImgJoan from '../../Assets/joan.jpeg';
-import GitHub from '../../Assets/GitHub2.jpg';
+import GitHub from '../../Assets/Github2.jpg';
 import {Header} from '../../Components/Header/Header'
 import {Footer} from '../../Components/Footer/Footer'
 
